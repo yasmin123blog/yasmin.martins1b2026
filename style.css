@@ -20,3 +20,12 @@ text-decoration: none;
 .kimi {
        color: rgb(3, 240, 240);
 }
+.kimi {
+      border-left: rgb(3, 240, 240)
+}
+.lando {
+       border-left: rgb(255, 145, 0)
+}
+.lewis {  
+        border-left: #ff2020;
+}
