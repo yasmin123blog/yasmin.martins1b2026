@@ -4,10 +4,10 @@ color: #121212;
 font-family:sans-serif;
 }
 header {
-border: bottom 2px #ff2020;
+border-bottom: 2px solid #ff2020;
 padding:10px;
 }
 nav a {
 color: #ff2020;
-text-ded
+text-decoration: none;
 }
